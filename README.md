@@ -1,6 +1,8 @@
 ## <a name="OWASP API Top 10 2023"></a> OWASP API Top 10 2023
 
-A edição 2023 do **OWASP API Security Top 10** apresenta os dez riscos mais frequentes e impactantes que afetam interfaces de programação de aplicações (APIs). Esses riscos foram selecionados a partir de dados reais de incidentes de segurança, contribuições de pesquisadores e feedback da comunidade de desenvolvedores e profissionais de segurança.
+A edição 2023 do **OWASP API Security Top 10** apresenta os dez riscos mais frequentes e impactantes que afetam interfaces de programação de aplicações (APIs). Esses riscos foram selecionados a partir de dados reais de incidentes de segurança, contribuições de pesquisadores e feedback da comunidade de desenvolvedores e profissionais de segurança. [Slides para apresentação](https://www.figma.com/slides/gdAQeZ6V3edqqzjt7FlblI/OWASP-API?t=MULMMAdPopTHY3zo-6)
+
+
 
 
 ## <a name="metodologia"></a>Metodologia OWASP API Top 10 2023
